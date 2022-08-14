@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: #1F2038; */
+}
+.header{
+    margin-top: 20px;
+    text-align: center;
+}
+.textcolor{
+    padding: 10px 5px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    border-radius: 10px;
+}
+.content{
+    padding: 20px;
+    margin: 2rem auto;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.search{
+
+}
+p{
+    margin: 10px 0;
+}
+.shorturl{
+    margin-top: 1rem;
+}
+.qr{
+    padding: 1rem;
+    cursor: pointer;
+    margin: 0 5px;
+}
+.srthco{
+    padding: 1rem;
+    cursor: pointer;
+}
+.shiny{
+    padding: 1rem;
+    cursor: pointer;
+}
+.result{
+    margin: 10px 0;
+}
